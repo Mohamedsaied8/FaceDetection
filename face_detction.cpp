@@ -1,4 +1,4 @@
-#include <opencv2/opencv.h>
+#include "face_detection.h"
 
 int main()
 {
