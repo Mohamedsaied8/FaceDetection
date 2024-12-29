@@ -1,8 +1,8 @@
 #include "face_detection.h"
 
-FaceDetector::FaceDetector()
+FaceDetector::FaceDetector(int n)
 {
-    // Initialize the face detector
+
 }
 
 int main()
