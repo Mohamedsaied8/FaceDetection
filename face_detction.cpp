@@ -1,5 +1,10 @@
 #include "face_detection.h"
 
+FaceDetector::FaceDetector()
+{
+    // Initialize the face detector
+}
+
 int main()
 {
     // Create a window
