@@ -11,3 +11,5 @@ to build the project
 `cd build`
 `cmake ..`
 `make -j`
+
+TODO: write full featured face detection based Deep learning
